@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>ap.p2p.sm.service.stubs</groupId>
+    <artifactId>ap-p2p-sm-service-stubs</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <groupId>ap.p2p.sm.service.stubs.assembly</groupId>
+  <artifactId>ap-p2p-sm-service-stubs-assembly</artifactId>
+  <name>assembly</name>
+  <packaging>pom</packaging>
+  
+  <modules>
+    <module>boot-engine</module>
+    <module>config-engine</module>
+  </modules>
+</project>
