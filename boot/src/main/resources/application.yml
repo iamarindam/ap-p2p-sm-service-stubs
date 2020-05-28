@@ -1,0 +1,10 @@
+server:
+    port: 25043
+signing:
+    generation:
+        path: http://snv-sprintst3.test.vocalink.co.uk:8082/zapp-test/security/jose/signature-generations
+spring:
+    jackson:
+        serialization:
+            write-dates-as-timestamps: false
+timeout: 7000
