@@ -27,7 +27,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<unitils-core.version>3.4.2</unitils-core.version>
 		<android-json.version>0.0.20131108.vaadin1</android-json.version>
-		<apache.poi.version>3.11</apache.poi.version>
+		<apache.poi.version>3.17</apache.poi.version>
 		<poi-ooxml.version>3.11</poi-ooxml.version>
 		<okhttp.version>4.2.2</okhttp.version>
 	</properties>
